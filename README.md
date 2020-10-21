@@ -1,6 +1,6 @@
 # jquerySortingTable
 
-This is a small jQuery plugin for tabe sorting (numbers, dates and strings).
+This is a small jQuery plugin for table sorting (numbers, dates and strings).
 
 How to use
 
