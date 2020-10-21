@@ -2,6 +2,8 @@
 
 This is a small jQuery plugin for table sorting (numbers, dates and strings).
 
+Demo: https://jsfiddle.net/h6wemr3n/
+
 # How to use
 
 Jquery is looking for a class 'data-table', adding the class makes table sortable.
